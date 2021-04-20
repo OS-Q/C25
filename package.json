@@ -1,0 +1,13 @@
+{
+  "name": "C25",
+  "description": "Pico Tool",
+  "system": [
+        "windows",
+        "windows_amd64",
+        "windows_x86",
+        "linux_x86_64",
+        "darwin_x86_64"
+  ],
+  "url": "https://github.com/OS-Q/C25",
+  "version": "1.0.0"
+}
