@@ -1,5 +1,5 @@
 {
-  "name": "C25",
+  "name": "D312",
   "description": "Pico Tool",
   "system": [
         "windows",
@@ -8,6 +8,6 @@
         "linux_x86_64",
         "darwin_x86_64"
   ],
-  "url": "https://github.com/OS-Q/C25",
+  "url": "https://github.com/OS-Q/D312",
   "version": "1.0.0"
 }
